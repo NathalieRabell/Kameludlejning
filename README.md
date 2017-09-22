@@ -1,18 +1,18 @@
 # Kameludlejning
-Skole projekt, hvor vi skal udarbejde en prototype for Helsinge Kameludlejning, så de kan få opdateret deres hjemmeside med et mere moderne udtryk.
+Skole projekt.
 
 ## Indhold
-- [Vores team](.#Vores-Team)
-- [Projektets formål](.#Projektets-Formål)
-- [Opsætning](.#Opsætning)
+- [Vores team](#vores-team)
+- [Projektets formål](#projektets-formål)
+- [Opsætning](#opsætning)
 
-### Vores Team
-Mark
-Nathalie
-Louise
+## Vores Team
+Louise Kragelund Skov  
+Mark Hagedorn Henningensen  
+Nathalie Rabell Andersen
 
-### Projektets formål
-Sådan er det
+## Projektets formål
+Vi skal udarbejde en prototype for Helsinge Kameludlejning, så de kan få opdateret deres hjemmeside med et mere moderne udtryk.
 
-### Opsætning
-Adobe XD bla bla
+## Opsætning
+Prototypen er udarbejdet i Adobe XD. Filen kameludlejning.xd indeholder alle siderne i prototypen.
